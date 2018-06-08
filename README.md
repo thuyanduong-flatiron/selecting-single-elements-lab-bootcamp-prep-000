@@ -165,4 +165,4 @@ Good luck!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/selecting-single-elements-lab'>Selecting Single Elements Lab</a> on Learn.co and start learning to code for free.</p>
 
-[mdnerrors]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
+[mdnerrors]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors 
